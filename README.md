@@ -1,4 +1,4 @@
-# Topic modelling based on blog titles
+# Topic modelling with blog titles
 
 ## Background
 To perform market research of BetterHelp for a personal project, I exported the blog titles driving traffic to the site using <a href="https://mangools.com/">Mangools</a>.

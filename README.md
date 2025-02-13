@@ -14,7 +14,7 @@ Used Word2Vec and LDA Topic modelling to identify top topics that all blog title
 * Identified the top 6 topics and relevant terms using the Latent Dirichlet Allocation (LDA) method.
 
 ## Results
-* Topics 1 and 3 show that blog titles focusing on relationships/partners are quite common to form a theme, indicating that Betterhelp generates siginficant traffic with this theme.
+* Topics 1 and 3 show that relationships/partners are a common theme in the blog titles, indicating that Betterhelp generates siginficant traffic with this theme.
 * Topic 2 shows that blogs focusing student mental health issues are also common enough to form a theme.
 * Other topics seem to be centered around promotions.
 

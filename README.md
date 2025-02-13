@@ -1,7 +1,7 @@
 # Topic modelling with blog titles
 
 ## Background
-To perform market research of BetterHelp for a personal project, I exported the site's blog data from the SEO intelligence platform, <a href="https://mangools.com/">Mangools</a>.
+To perform market research of BetterHelp for a personal project, I exported the site's blog data from the SEO platform, <a href="https://mangools.com/">Mangools</a>.
 
 ## Problem
 The raw data exported from Mangools had over 400 blog titles and it was difficult to identify themes behind content that is driving traffic to Betterhelp.
